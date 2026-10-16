@@ -221,3 +221,4 @@ __marimo__/
 
 # data files are downloaded from Zenodo by the notebooks
 data/
+.DS_Store
