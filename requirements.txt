@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+openpyxl
+xarray
+matplotlib>=3.7
+rhkpy>=1.3.0
+requests>=2.31
+scienceplots   # optional, figure style of the paper
