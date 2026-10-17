@@ -20,7 +20,6 @@ All notebooks are available as HTML pages that can be read directly in the brows
 | `plot_fig2.ipynb` | Fig. 2a-f: line section of the map and its bias derivative, scattering wave vectors on the TB bands, line spectrum 267, TB LDOS line section | `..._991.sm4`, `..._267.sm4`, TB bands, TB line spectrum (system 1) |
 | `plot_fig3.ipynb` | Fig. 3: energy derivative of the layer-resolved TB LDOS, six layers | layer-resolved TB LDOS (system 1) |
 | `plot_fig4.ipynb` | Fig. 4a,b, I-VI, c: DFT bands coloured by layer participation number with the wave-packet populations, planar-averaged charge densities, wave-packet reflection R(E) | VASP projected bands, WPD spectral weights, `density*_PLANAR_AVERAGE.dat`, `refl.dat` |
-| `plot_figS1.ipynb` | Fig. S1 (partial): electronic Raman spectra of the (+⁵) region, crossed and parallel polarizers | WITec spectrum exports |
 | `plot_figS2.ipynb` | Fig. S2: further line spectra across domain walls and their bias derivatives | `..._986/306/660/402.sm4` |
 | `plot_figS3.ipynb` | Fig. S3: line spectrum across a rhombohedral ribbon and the TB LDOS of a ribbon | `..._747.sm4`, TB line spectrum (system 3) |
 | `plot_figS4.ipynb` | Fig. S4: TB LDOS without doping and with doping of the opposite sign | `ldos_system1_layer6_*.npy` |
